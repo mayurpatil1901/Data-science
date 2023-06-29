@@ -1,5 +1,5 @@
 # Black Friday Sales
-> this is my first repository 
-> it is the data science project based on  Black Friday Sales
+> This is my first repository 
+> I have worled on Black Friday Sales Dataset
 
 
